@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Gustavo Nascimento from Fortaleza, Brazil!<br><br>- 🔭 I’m working as Computer Instructor.<br>- 📚 I'm currently learning Information Technology Management. <br>- ⚡ In my free time I coding.</p>
+<p align="left">I'm Gustavo Nascimento from Fortaleza, Brazil!<br><br>📚 Front-End Developer | Beginner.<br>🧠 Turning ideas into code. <br>☕Open-source lover & coffe-fueled problem solver.</p>
 
 ###
 
@@ -38,15 +38,14 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css5/css5-original.svg" height="40" alt="css5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
 </div>
 
 ###
