@@ -24,12 +24,13 @@
 <h1 align="center">hey there 👋</h1>
 
 ###
+<p align="left">I'm Gustavo Nascimento from Fortaleza, Brazil!</p>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Gustavo Nascimento from Fortaleza, Brazil!<br><br>📚 Front-End Developer | Beginner.<br>🧠 Turning ideas into code. <br>☕Open-source lover & coffe-fueled problem solver.</p>
+<p align="left">📚 Front-End Developer | Beginner.<br>🧠 Turning ideas into code. <br>☕Open-source lover & coffe-fueled problem solver.</p>
 
 ###
 
