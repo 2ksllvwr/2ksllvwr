@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left"><p align="left">I'm Gustavo Nascimento from Fortaleza, Brazil!<br>📚 Front-End Developer | Beginner.<br>🧠 Turning ideas into code. <br>☕Open-source lover & coffe-fueled problem solver.</p>
+<p align="left"><p align="left">👤I'm Gustavo Nascimento from Fortaleza, Brazil!<br>📚 Front-End Developer | Beginner.<br>🧠 Turning ideas into code. <br>☕Open-source lover & coffe-fueled problem solver.</p>
 
 ###
 
